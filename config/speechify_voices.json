@@ -1,0 +1,7216 @@
+[
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/0dd01369-e539-42ec-a494-12ecf382d3cb.webp",
+    "display_name": "Alec",
+    "gender": "male",
+    "locale": "en-GB",
+    "id": "alec",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/ceff513f-4a2a-4438-b17f-b0139aac3def.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/ceff513f-4a2a-4438-b17f-b0139aac3def.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/ceff513f-4a2a-4438-b17f-b0139aac3def.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/ceff513f-4a2a-4438-b17f-b0139aac3def.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/ceff513f-4a2a-4438-b17f-b0139aac3def.mp3",
+    "tags": [
+      "age:middle-aged",
+      "use-case:voice-agent",
+      "label:new-voice",
+      "use-case:animation",
+      "use-case:narration",
+      "use-case:movies",
+      "pitch:low",
+      "use-case:work",
+      "use-case:video-narration",
+      "timbre:relaxed",
+      "use-case:non-fiction",
+      "pitch:mid",
+      "accent:british",
+      "fictiongenre:mystery",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "use-case:podcast",
+      "content-type:news",
+      "style:classic",
+      "use-case:audiobook-long-form"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Alfonso",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "alfonso",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-alfonso/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-alfonso/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-alfonso/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-alfonso/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-alfonso/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Alicia",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "alicia",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-alicia/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-alicia/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-alicia/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-alicia/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-alicia/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Alton",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "alton",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-alton/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-alton/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-alton/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-alton/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-alton/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Amon",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "amon",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-amon/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-amon/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-amon/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-amon/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-amon/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/b448dbbd-2634-4a34-ac34-d488d5b57be3.webp",
+    "display_name": "Ankit",
+    "gender": "male",
+    "locale": "en-IN",
+    "id": "ankit",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-IN",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-ankit/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-IN",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-ankit/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-IN",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-ankit/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-IN",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-ankit/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-ankit/en.mp3",
+    "tags": [
+      "use-case:social-media",
+      "use-case:e-learning",
+      "use-case:work",
+      "age:young-adult",
+      "accent:indian",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "use-case:customer-service-ivr",
+      "timbre:neutral",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Anthony",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "anthony",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-anthony/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-anthony/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-anthony/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-anthony/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-anthony/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/d347cd1b-e422-449e-b895-a478b817c77d.webp",
+    "display_name": "Archie",
+    "gender": "male",
+    "locale": "en-GB",
+    "id": "archie",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-archie/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-archie/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-archie/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-archie/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-archie/en.mp3",
+    "tags": [
+      "use-case:social-media",
+      "use-case:e-learning",
+      "use-case:work",
+      "age:young-adult",
+      "accent:british",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "timbre:neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/b7e0e55f-1cff-4367-8005-35fdadac3e32.webp",
+    "display_name": "Arun",
+    "gender": "male",
+    "locale": "en-IN",
+    "id": "arun",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-IN",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-arun/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-IN",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-arun/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-IN",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-arun/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-IN",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-arun/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-arun/en.mp3",
+    "tags": [
+      "age:middle-aged",
+      "use-case:conversational-ai",
+      "use-case:social-media",
+      "use-case:animation",
+      "use-case:e-learning",
+      "use-case:work",
+      "use-case:video-narration",
+      "accent:indian",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "timbre:deep",
+      "use-case:gaming",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/db1e1efc-6b57-4c01-b368-fbf5b6aa477d.webp",
+    "display_name": "Beatrice",
+    "gender": "female",
+    "locale": "en-GB",
+    "id": "beatrice_32",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fd56df5b-ef92-4323-b057-cf49af7edf59.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fd56df5b-ef92-4323-b057-cf49af7edf59.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fd56df5b-ef92-4323-b057-cf49af7edf59.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fd56df5b-ef92-4323-b057-cf49af7edf59.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/fd56df5b-ef92-4323-b057-cf49af7edf59.mp3",
+    "tags": [
+      "gender:female",
+      "use-case:voice-agent",
+      "label:new-voice",
+      "use-case:conversational-ai",
+      "content-type:fiction",
+      "use-case:narration",
+      "content-type:article-longform",
+      "use-case:movies",
+      "use-case:e-learning",
+      "pitch:low",
+      "age:young-adult",
+      "use-case:video-narration",
+      "use-case:non-fiction",
+      "timbre:warm",
+      "pitch:mid",
+      "use-case:conversational",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "style:emotive",
+      "use-case:audiobook-long-form"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Belinda",
+    "gender": "female",
+    "locale": "en-GB",
+    "id": "belinda",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-belinda/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-belinda/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-belinda/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-belinda/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-belinda/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/fd59503b-0993-424c-b7ae-88ecc4a49e8e.webp",
+    "display_name": "Benjamin",
+    "gender": "male",
+    "locale": "en-GB",
+    "id": "benjamin",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fc8a9f73-4620-411e-aaaa-e6a2b1db29e9.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fc8a9f73-4620-411e-aaaa-e6a2b1db29e9.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fc8a9f73-4620-411e-aaaa-e6a2b1db29e9.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fc8a9f73-4620-411e-aaaa-e6a2b1db29e9.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/fc8a9f73-4620-411e-aaaa-e6a2b1db29e9.mp3",
+    "tags": [
+      "age:middle-aged",
+      "style:resonant",
+      "use-case:conversational-ai",
+      "content-type:fiction",
+      "use-case:social-media",
+      "use-case:e-learning",
+      "pitch:low",
+      "use-case:video-narration",
+      "accent:british",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "use-case:podcast",
+      "timbre:deep",
+      "use-case:gaming",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Bertha",
+    "gender": "female",
+    "locale": "en-GB",
+    "id": "bertha",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-bertha/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-bertha/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-bertha/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-bertha/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-bertha/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Beth",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "beth",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-beth/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-beth/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-beth/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-beth/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-beth/en.mp3",
+    "tags": [
+      "use-case:social-media",
+      "age:young-adult",
+      "timbre:bright",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/5b7cf0a0-2f10-4941-b363-ce7c7b9fe987.webp",
+    "display_name": "Beverly",
+    "gender": "female",
+    "locale": "en-GB",
+    "id": "beverly",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-beverly/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-beverly/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-beverly/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-beverly/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-beverly/en.mp3",
+    "tags": [
+      "use-case:conversational-ai",
+      "use-case:e-learning",
+      "use-case:work",
+      "age:senior",
+      "use-case:video-narration",
+      "accent:british",
+      "use-case:audiobook",
+      "use-case:customer-service-ivr",
+      "use-case:gaming",
+      "timbre:neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/16475d1a-7562-4800-ba9f-8e619014f61f.webp",
+    "display_name": "Brenda",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "brenda",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-brenda/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-brenda/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-brenda/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-brenda/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-brenda/en.mp3",
+    "tags": [
+      "use-case:social-media",
+      "use-case:work",
+      "age:young-adult",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "timbre:bright",
+      "use-case:customer-service-ivr",
+      "accent:american-neutral",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/b5e135eb-9955-43a9-997f-708cc8dc29cd.webp",
+    "display_name": "Bridget",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "bridget",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-bridget/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-bridget/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-bridget/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-bridget/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-bridget/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/6afb5308-6865-4fdf-b835-c18498ecccdf.webp",
+    "display_name": "Erica",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "bwyneth",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/9190cd35-c8c2-4911-9fd8-8521302b0c39.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/9190cd35-c8c2-4911-9fd8-8521302b0c39.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/9190cd35-c8c2-4911-9fd8-8521302b0c39.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/9190cd35-c8c2-4911-9fd8-8521302b0c39.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/9190cd35-c8c2-4911-9fd8-8521302b0c39.mp3",
+    "tags": [
+      "content-type:research",
+      "style:professional",
+      "use-case:e-learning",
+      "age:young-adult",
+      "pitch:mid",
+      "use-case:audiobook",
+      "timbre:bright",
+      "use-case:audiobook-long-form"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/36f26c5e-b451-4255-973b-0950062c83dc.webp",
+    "display_name": "Byron",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "byronagent",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/9c5286d9-a66a-4d76-bb2a-607c487f3757.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/9c5286d9-a66a-4d76-bb2a-607c487f3757.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/9c5286d9-a66a-4d76-bb2a-607c487f3757.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/9c5286d9-a66a-4d76-bb2a-607c487f3757.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/9c5286d9-a66a-4d76-bb2a-607c487f3757.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/bc11d22f-5984-48b8-ac45-03e3c6851f0e.webp",
+    "display_name": "Carly",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "carly",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/c6c24322-3cf4-4280-b09e-88c71521b449.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/c6c24322-3cf4-4280-b09e-88c71521b449.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/c6c24322-3cf4-4280-b09e-88c71521b449.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/c6c24322-3cf4-4280-b09e-88c71521b449.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/c6c24322-3cf4-4280-b09e-88c71521b449.mp3",
+    "tags": [
+      "use-case:conversational-ai",
+      "use-case:social-media",
+      "age:young-adult",
+      "use-case:podcast",
+      "timbre:crisp",
+      "content-type:news",
+      "use-case:gaming",
+      "pitch:high",
+      "style:upbeat",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/c808e398-11aa-4e49-b195-bb59790b05c1.webp",
+    "display_name": "Carol",
+    "gender": "female",
+    "locale": "en-GB",
+    "id": "carol",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-carol/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-carol/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-carol/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-carol/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-carol/en.mp3",
+    "tags": [
+      "age:middle-aged",
+      "use-case:conversational-ai",
+      "use-case:e-learning",
+      "use-case:work",
+      "use-case:video-narration",
+      "accent:british",
+      "use-case:audiobook",
+      "use-case:customer-service-ivr",
+      "timbre:deep",
+      "use-case:gaming",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/3a87093b-1d27-4c6d-a895-df0d1783062f.webp",
+    "display_name": "Carter",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "carter",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/44fdb42c-6e93-40e4-8afa-62a9d6f49441.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/44fdb42c-6e93-40e4-8afa-62a9d6f49441.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/44fdb42c-6e93-40e4-8afa-62a9d6f49441.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/44fdb42c-6e93-40e4-8afa-62a9d6f49441.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/44fdb42c-6e93-40e4-8afa-62a9d6f49441.mp3",
+    "tags": [
+      "use-case:voice-agent"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/02ed94b2-890c-49b5-8de5-a0892732ff9c.webp",
+    "display_name": "Catriona",
+    "gender": "female",
+    "locale": "en-GB",
+    "id": "catriona",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/7a7b2ff6-627b-446c-8bff-cac07630362e.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/7a7b2ff6-627b-446c-8bff-cac07630362e.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/7a7b2ff6-627b-446c-8bff-cac07630362e.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/7a7b2ff6-627b-446c-8bff-cac07630362e.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "",
+    "tags": [
+      "gender:female",
+      "style:dynamic",
+      "use-case:narration",
+      "age:young-adult",
+      "use-case:non-fiction",
+      "pitch:mid",
+      "use-case:audiobook",
+      "timbre:bright",
+      "pitch:high"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Chad",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "chad",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-chad/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-chad/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-chad/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-chad/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-chad/en.mp3",
+    "tags": [
+      "use-case:conversational-ai",
+      "use-case:animation",
+      "use-case:work",
+      "age:young-adult",
+      "use-case:video-narration",
+      "use-case:audiobook",
+      "use-case:customer-service-ivr",
+      "timbre:deep",
+      "use-case:gaming",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Charlotte",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "charlotte",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-charlotte/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-charlotte/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-charlotte/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-charlotte/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-charlotte/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/d73e2487-fef8-47e0-85ed-7d88d3d3a516.webp",
+    "display_name": "Chase",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "chase",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/0032f8b4-5b3b-4f7c-b608-4deaaf70fd4c.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/0032f8b4-5b3b-4f7c-b608-4deaaf70fd4c.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/0032f8b4-5b3b-4f7c-b608-4deaaf70fd4c.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/0032f8b4-5b3b-4f7c-b608-4deaaf70fd4c.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/0032f8b4-5b3b-4f7c-b608-4deaaf70fd4c.mp3",
+    "tags": [
+      "use-case:voice-agent",
+      "use-case:social-media",
+      "use-case:animation",
+      "age:young-adult",
+      "use-case:video-narration",
+      "pitch:mid",
+      "style:balanced",
+      "use-case:podcast",
+      "timbre:bright",
+      "use-case:customer-service-ivr",
+      "use-case:gaming",
+      "accent:american-neutral",
+      "use-case:advertisement"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Clarissa",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "clarissa",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-clarissa/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-clarissa/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-clarissa/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-clarissa/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-clarissa/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Claudette",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "claudette",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-claudette/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-claudette/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-claudette/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-claudette/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-claudette/en.mp3",
+    "tags": [
+      "use-case:conversational-ai",
+      "use-case:social-media",
+      "use-case:work",
+      "age:senior",
+      "use-case:video-narration",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "use-case:customer-service-ivr",
+      "timbre:deep",
+      "use-case:gaming",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/50195a8e-74f0-4168-bc62-80dd0ec9d899.webp",
+    "display_name": "Cleon",
+    "gender": "male",
+    "locale": "en-GB",
+    "id": "cleon",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/8e0fc0c7-99b7-4635-bed3-50975e5878f4.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/8e0fc0c7-99b7-4635-bed3-50975e5878f4.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/8e0fc0c7-99b7-4635-bed3-50975e5878f4.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/8e0fc0c7-99b7-4635-bed3-50975e5878f4.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/8e0fc0c7-99b7-4635-bed3-50975e5878f4.mp3",
+    "tags": [
+      "use-case:voice-agent"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/50175e91-b14d-4c7d-9f71-5a7d79e971bf.webp",
+    "display_name": "Collin",
+    "gender": "male",
+    "locale": "en-GB",
+    "id": "collin",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-collin/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-collin/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-collin/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-collin/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-collin/en.mp3",
+    "tags": [
+      "age:middle-aged",
+      "use-case:social-media",
+      "use-case:e-learning",
+      "use-case:work",
+      "accent:british",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "timbre:deep",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Daisy",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "daisy",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-daisy/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-daisy/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-daisy/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-daisy/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-daisy/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Darla",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "darla",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-darla/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-darla/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-darla/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-darla/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-darla/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/fcf57bec-51e9-4136-9386-1ad5b159ce8b.webp",
+    "display_name": "Denise",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "denise",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/47135848-72d3-4ff1-a0c2-20e2d1277fde.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/47135848-72d3-4ff1-a0c2-20e2d1277fde.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/47135848-72d3-4ff1-a0c2-20e2d1277fde.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/47135848-72d3-4ff1-a0c2-20e2d1277fde.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/47135848-72d3-4ff1-a0c2-20e2d1277fde.mp3",
+    "tags": [
+      "age:middle-aged",
+      "use-case:work",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "use-case:customer-service-ivr",
+      "timbre:neutral",
+      "use-case:audiobook-long-form"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/12526246-d0cc-4e92-92d5-da418306bb2a.webp",
+    "display_name": "Dominic",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "dominic",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/28ed0237-691a-4c1c-a2f5-ac966bd9884e.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/28ed0237-691a-4c1c-a2f5-ac966bd9884e.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/28ed0237-691a-4c1c-a2f5-ac966bd9884e.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/28ed0237-691a-4c1c-a2f5-ac966bd9884e.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/28ed0237-691a-4c1c-a2f5-ac966bd9884e.mp3",
+    "tags": [
+      "style:resonant",
+      "use-case:voice-agent",
+      "content-type:fiction",
+      "use-case:social-media",
+      "use-case:narration",
+      "use-case:movies",
+      "pitch:low",
+      "age:young-adult",
+      "use-case:video-narration",
+      "use-case:non-fiction",
+      "pitch:mid",
+      "use-case:audiobook",
+      "use-case:customer-service-ivr",
+      "timbre:deep",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "fictiongenre:romance",
+      "use-case:audiobook-long-form"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/a15af045-6dea-4f61-b012-c66627b827b5.webp",
+    "display_name": "Dominic",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "dominic_32",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/90471e4c-5191-4e79-9fab-da2e0c48e4fe.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/90471e4c-5191-4e79-9fab-da2e0c48e4fe.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/90471e4c-5191-4e79-9fab-da2e0c48e4fe.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/90471e4c-5191-4e79-9fab-da2e0c48e4fe.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/90471e4c-5191-4e79-9fab-da2e0c48e4fe.mp3",
+    "tags": [
+      "label:new-voice",
+      "content-type:fiction",
+      "use-case:social-media",
+      "use-case:narration",
+      "content-type:article-longform",
+      "style:heartfelt",
+      "pitch:low",
+      "age:young-adult",
+      "use-case:video-narration",
+      "use-case:non-fiction",
+      "use-case:conversational",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "use-case:podcast",
+      "content-type:non-fiction",
+      "timbre:deep",
+      "gender:male",
+      "use-case:audiobook-long-form"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Donald",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "donald",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-donald/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-donald/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-donald/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-donald/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-donald/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/39697357-bc0e-4186-ac01-b6d80344e42e.webp",
+    "display_name": "Dorian",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "dorian",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/762c66b0-6b89-414c-a2b1-68f11289fe62.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/762c66b0-6b89-414c-a2b1-68f11289fe62.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/762c66b0-6b89-414c-a2b1-68f11289fe62.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/762c66b0-6b89-414c-a2b1-68f11289fe62.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/762c66b0-6b89-414c-a2b1-68f11289fe62.mp3",
+    "tags": [
+      "style:resonant",
+      "use-case:voice-agent",
+      "label:new-voice",
+      "use-case:narration",
+      "content-type:article-longform",
+      "use-case:movies",
+      "pitch:low",
+      "use-case:work",
+      "age:young-adult",
+      "use-case:video-narration",
+      "pitch:mid",
+      "use-case:conversational",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "use-case:podcast",
+      "content-type:non-fiction",
+      "timbre:deep",
+      "gender:male",
+      "accent:american-neutral",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/3b289a0a-0759-4729-9140-437f84c8cbbd.webp",
+    "display_name": "Douglas",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "douglas",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-douglas/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-douglas/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-douglas/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-douglas/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-douglas/en.mp3",
+    "tags": [
+      "use-case:conversational-ai",
+      "use-case:work",
+      "age:senior",
+      "use-case:video-narration",
+      "timbre:relaxed",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "use-case:customer-service-ivr",
+      "use-case:gaming",
+      "timbre:neutral",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Earnest",
+    "gender": "male",
+    "locale": "en-GB",
+    "id": "earnest",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-earnest/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-earnest/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-earnest/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-earnest/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-earnest/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Edmund",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "edmund",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-edmund/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-edmund/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-edmund/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-edmund/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-edmund/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/53d36d9a-c813-433b-8c0c-2078e06c14c5.webp",
+    "display_name": "Edmund",
+    "gender": "male",
+    "locale": "en-GB",
+    "id": "edmund_32",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/3022583f-52a5-4db9-ba71-8e3e2709dac9.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/3022583f-52a5-4db9-ba71-8e3e2709dac9.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/3022583f-52a5-4db9-ba71-8e3e2709dac9.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/3022583f-52a5-4db9-ba71-8e3e2709dac9.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/3022583f-52a5-4db9-ba71-8e3e2709dac9.mp3",
+    "tags": [
+      "use-case:voice-agent",
+      "label:new-voice",
+      "style:dynamic",
+      "content-type:research",
+      "use-case:animation",
+      "use-case:narration",
+      "content-type:article-longform",
+      "use-case:e-learning",
+      "use-case:news",
+      "use-case:work",
+      "age:young-adult",
+      "use-case:video-narration",
+      "use-case:non-fiction",
+      "accent:british",
+      "use-case:conversational",
+      "timbre:bright",
+      "use-case:gaming",
+      "pitch:high",
+      "use-case:advertisement",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/053536e4-c918-47c5-8bb5-3eea7659abad.webp",
+    "display_name": "Elijah",
+    "gender": "male",
+    "locale": "en-NG",
+    "id": "elijah",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-NG",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-elijah/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-NG",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-elijah/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-NG",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-elijah/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-NG",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-elijah/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-elijah/en.mp3",
+    "tags": [
+      "age:middle-aged",
+      "use-case:conversational-ai",
+      "use-case:e-learning",
+      "use-case:work",
+      "accent:nigerian",
+      "use-case:video-narration",
+      "use-case:audiobook",
+      "use-case:customer-service-ivr",
+      "timbre:deep",
+      "use-case:gaming",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/ece5b30a-2994-4f0a-bb7f-63debd021037.webp",
+    "display_name": "Emily",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "emily",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-emily/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-emily/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-emily/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-emily/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-emily/en.mp3",
+    "tags": [
+      "use-case:conversational-ai",
+      "use-case:social-media",
+      "use-case:animation",
+      "use-case:e-learning",
+      "age:young-adult",
+      "use-case:video-narration",
+      "timbre:relaxed",
+      "use-case:podcast",
+      "use-case:gaming",
+      "timbre:neutral",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/a177b798-1373-45d8-9c01-2d96d77473c1.webp",
+    "display_name": "Erin",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "erin",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-erin/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-erin/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-erin/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-erin/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-erin/en.mp3",
+    "tags": [
+      "use-case:social-media",
+      "use-case:e-learning",
+      "use-case:work",
+      "age:young-adult",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "timbre:deep",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/bf74cb8f-2894-4019-8c1f-9e4ed2095b45.webp",
+    "display_name": "Evelyn",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "evelyn",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-evelyn/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-evelyn/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-evelyn/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-evelyn/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-evelyn/en.mp3",
+    "tags": [
+      "use-case:social-media",
+      "use-case:e-learning",
+      "age:young-adult",
+      "use-case:podcast",
+      "timbre:neutral",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/916e50ae-3083-43bb-b387-d174eb7486fa.webp",
+    "display_name": "Fraser",
+    "gender": "male",
+    "locale": "en-GB",
+    "id": "fraser",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/7b6928e9-5db5-49fe-bf5e-32dc4dc9fb0d.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/7b6928e9-5db5-49fe-bf5e-32dc4dc9fb0d.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/7b6928e9-5db5-49fe-bf5e-32dc4dc9fb0d.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/7b6928e9-5db5-49fe-bf5e-32dc4dc9fb0d.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/7b6928e9-5db5-49fe-bf5e-32dc4dc9fb0d.mp3",
+    "tags": [
+      "pitch:low",
+      "timbre:warm",
+      "pitch:mid",
+      "style:grounded",
+      "gender:male"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Garry",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "garry",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-garry/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-garry/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-garry/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-garry/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-garry/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Gary",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "gary",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-gary/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-gary/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-gary/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-gary/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-gary/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/db5ccb18-db5e-4a6b-8501-cd526aa3f417.webp",
+    "display_name": "Geffen",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "geffen_32",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/4e617b39-45cc-478a-b5b0-9e88401eaa2b.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/4e617b39-45cc-478a-b5b0-9e88401eaa2b.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/4e617b39-45cc-478a-b5b0-9e88401eaa2b.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/4e617b39-45cc-478a-b5b0-9e88401eaa2b.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/4e617b39-45cc-478a-b5b0-9e88401eaa2b.mp3",
+    "tags": [
+      "gender:female",
+      "label:new-voice",
+      "content-type:fiction",
+      "use-case:social-media",
+      "use-case:animation",
+      "use-case:narration",
+      "content-type:article-longform",
+      "pitch:low",
+      "use-case:work",
+      "age:young-adult",
+      "use-case:video-narration",
+      "use-case:non-fiction",
+      "timbre:warm",
+      "pitch:mid",
+      "use-case:conversational",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "content-type:non-fiction",
+      "style:intriguing",
+      "use-case:gaming",
+      "accent:american-neutral",
+      "use-case:audiobook-long-form",
+      "label:real-person"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/0c622ecd-ab26-426f-b063-9dbc65de2202.webp",
+    "display_name": "Geffen",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "geffenv1",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fa568e3d-b540-4438-9c06-1805b163f73e.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fa568e3d-b540-4438-9c06-1805b163f73e.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fa568e3d-b540-4438-9c06-1805b163f73e.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fa568e3d-b540-4438-9c06-1805b163f73e.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/fa568e3d-b540-4438-9c06-1805b163f73e.mp3",
+    "tags": [
+      "use-case:voice-agent",
+      "content-type:fiction",
+      "use-case:social-media",
+      "use-case:animation",
+      "content-type:article-longform",
+      "use-case:movies",
+      "age:young-adult",
+      "use-case:video-narration",
+      "pitch:mid",
+      "use-case:audiobook",
+      "content-type:non-fiction",
+      "use-case:gaming",
+      "style:velvety",
+      "use-case:advertisement",
+      "timbre:soft",
+      "fictiongenre:romance",
+      "use-case:audiobook-long-form",
+      "label:real-person",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/d3d0b4c3-2b7a-4330-ba1a-ab590d306f53.webp",
+    "display_name": "George",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "george",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-george/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-george/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-george/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-george/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-george/en.mp3",
+    "tags": [
+      "age:middle-aged",
+      "content-type:research",
+      "use-case:e-learning",
+      "pitch:low",
+      "timbre:warm",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "use-case:audiobook-long-form",
+      "style:assured"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Gwen",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "gwen",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-gwen/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-gwen/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-gwen/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-gwen/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-gwen/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/9a28b27a-d78d-4090-b547-b91049123e73.webp",
+    "display_name": "Hamish",
+    "gender": "male",
+    "locale": "en-GB",
+    "id": "hamish",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/11a9cbde-f53e-4fb5-89db-7b99b1f255b0.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/11a9cbde-f53e-4fb5-89db-7b99b1f255b0.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/11a9cbde-f53e-4fb5-89db-7b99b1f255b0.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/11a9cbde-f53e-4fb5-89db-7b99b1f255b0.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/11a9cbde-f53e-4fb5-89db-7b99b1f255b0.mp3",
+    "tags": [
+      "age:middle-aged",
+      "label:new-voice",
+      "use-case:movies",
+      "pitch:low",
+      "use-case:non-fiction",
+      "pitch:mid",
+      "timbre:textured",
+      "use-case:audiobook",
+      "style:friendly",
+      "gender:male"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/18e45c2f-6b90-4122-8375-1c7234beac50.webp",
+    "display_name": "Harper",
+    "gender": "female",
+    "locale": "en-GB",
+    "id": "harper",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-harper/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-harper/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-harper/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-harper/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-harper/en.mp3",
+    "tags": [
+      "use-case:social-media",
+      "use-case:e-learning",
+      "age:young-adult",
+      "accent:british",
+      "use-case:podcast",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/7c6ca40c-17af-4845-9647-2c574e384936.webp",
+    "display_name": "Harper",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "harper_32",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/219183d8-e350-4142-957f-0c41a8732731.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/219183d8-e350-4142-957f-0c41a8732731.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/219183d8-e350-4142-957f-0c41a8732731.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/219183d8-e350-4142-957f-0c41a8732731.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/219183d8-e350-4142-957f-0c41a8732731.mp3",
+    "tags": [
+      "gender:female",
+      "label:new-voice",
+      "content-type:study",
+      "use-case:animation",
+      "use-case:narration",
+      "content-type:article-longform",
+      "use-case:movies",
+      "use-case:e-learning",
+      "age:young-adult",
+      "use-case:video-narration",
+      "use-case:non-fiction",
+      "pitch:mid",
+      "use-case:conversational",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "use-case:customer-service-ivr",
+      "content-type:non-fiction",
+      "use-case:gaming",
+      "style:playful",
+      "timbre:soft",
+      "use-case:audiobook-long-form"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/f3a19d66-0e1b-4962-beb9-7846153a89e1.webp",
+    "display_name": "Helen",
+    "gender": "female",
+    "locale": "en-GB",
+    "id": "helen",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-helen/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-helen/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-helen/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-helen/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-helen/en.mp3",
+    "tags": [
+      "age:middle-aged",
+      "use-case:social-media",
+      "use-case:e-learning",
+      "use-case:work",
+      "accent:british",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "timbre:deep",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/d1bc3bef-b25e-453b-8403-6dae96a96446.webp",
+    "display_name": "Henry",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "henry",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-henry/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-henry/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-henry/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-henry/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-henry/en.mp3",
+    "tags": [
+      "age:middle-aged",
+      "use-case:social-media",
+      "content-type:article-longform",
+      "pitch:mid",
+      "use-case:audiobook",
+      "timbre:bright",
+      "style:inviting",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/45de02a4-935b-4b11-9c5c-ba7a5095d1b9.webp",
+    "display_name": "Hugh",
+    "gender": "male",
+    "locale": "en-GB",
+    "id": "hugh_32",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/110f38f8-bb01-42ec-9e14-53472d925d49.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/110f38f8-bb01-42ec-9e14-53472d925d49.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/110f38f8-bb01-42ec-9e14-53472d925d49.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/110f38f8-bb01-42ec-9e14-53472d925d49.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/110f38f8-bb01-42ec-9e14-53472d925d49.mp3",
+    "tags": [
+      "label:new-voice",
+      "style:dynamic",
+      "use-case:social-media",
+      "use-case:animation",
+      "use-case:narration",
+      "content-type:article-longform",
+      "use-case:movies",
+      "pitch:low",
+      "age:young-adult",
+      "use-case:video-narration",
+      "use-case:non-fiction",
+      "accent:british",
+      "use-case:conversational",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "use-case:podcast",
+      "timbre:deep",
+      "gender:male",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/5adcc023-5592-4265-8d0e-22a618f08457.webp",
+    "display_name": "Imogen",
+    "gender": "female",
+    "locale": "en-GB",
+    "id": "imogen_32",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fd63e5b1-b2fe-41be-90e6-b2acfa8987ec.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fd63e5b1-b2fe-41be-90e6-b2acfa8987ec.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fd63e5b1-b2fe-41be-90e6-b2acfa8987ec.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fd63e5b1-b2fe-41be-90e6-b2acfa8987ec.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/fd63e5b1-b2fe-41be-90e6-b2acfa8987ec.mp3",
+    "tags": [
+      "gender:female",
+      "age:middle-aged",
+      "label:new-voice",
+      "style:serene",
+      "content-type:fiction",
+      "use-case:social-media",
+      "use-case:narration",
+      "content-type:article-longform",
+      "use-case:movies",
+      "pitch:low",
+      "use-case:video-narration",
+      "use-case:non-fiction",
+      "timbre:warm",
+      "pitch:mid",
+      "accent:british",
+      "use-case:conversational",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "content-type:non-fiction",
+      "use-case:audiobook-long-form"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/37305d5e-1263-4067-aeea-c28a3f7ad73c.webp",
+    "display_name": "Jack",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "jack",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jack/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jack/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jack/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jack/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jack/en.mp3",
+    "tags": [
+      "use-case:social-media",
+      "use-case:e-learning",
+      "age:young-adult",
+      "use-case:podcast",
+      "timbre:deep",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/c83d3a2c-f779-44e0-be54-0ba1cd466f15.webp",
+    "display_name": "Jacob",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "jacob",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jacob/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jacob/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jacob/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jacob/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jacob/en.mp3",
+    "tags": [
+      "use-case:conversational-ai",
+      "use-case:social-media",
+      "use-case:animation",
+      "use-case:e-learning",
+      "use-case:work",
+      "age:young-adult",
+      "use-case:video-narration",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "use-case:gaming",
+      "timbre:neutral",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Jaime",
+    "gender": "male",
+    "locale": "en-GB",
+    "id": "jaime",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jaime/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jaime/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jaime/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jaime/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jaime/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/f1aa5c54-6d5d-49cc-95da-dbf53f9a71ea.webp",
+    "display_name": "James",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "james",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-james/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-james/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-james/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-james/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-james/en.mp3",
+    "tags": [
+      "use-case:social-media",
+      "use-case:e-learning",
+      "use-case:work",
+      "age:young-adult",
+      "use-case:audiobook",
+      "use-case:customer-service-ivr",
+      "timbre:neutral",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Janelle",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "janelle",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-janelle/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-janelle/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-janelle/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-janelle/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-janelle/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/5726d5a5-71c0-40b7-99da-493060d1393c.webp",
+    "display_name": "Jean",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "jean",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jean/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jean/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jean/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jean/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jean/en.mp3",
+    "tags": [
+      "age:middle-aged",
+      "use-case:e-learning",
+      "use-case:work",
+      "use-case:audiobook",
+      "use-case:customer-service-ivr",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/7dfc1998-6f52-494f-b0b2-b113c995b66c.webp",
+    "display_name": "Jennifer",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "jennifer",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jennifer/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jennifer/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jennifer/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jennifer/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jennifer/en.mp3",
+    "tags": [
+      "use-case:social-media",
+      "use-case:e-learning",
+      "age:young-adult",
+      "use-case:podcast",
+      "timbre:neutral",
+      "accent:american-neutral",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/2ead3c98-3f5d-496f-8e8d-034a7b520b1f.webp",
+    "display_name": "Jesse",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "jesse",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jesse/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jesse/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jesse/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jesse/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jesse/en.mp3",
+    "tags": [
+      "age:middle-aged",
+      "use-case:social-media",
+      "use-case:e-learning",
+      "use-case:work",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "timbre:deep",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/b8276970-c59e-45a9-bc4d-8febee34d3e8.webp",
+    "display_name": "Joe",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "joe",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/39be08af-d517-4148-8885-b99666795d3f.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/39be08af-d517-4148-8885-b99666795d3f.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/39be08af-d517-4148-8885-b99666795d3f.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/39be08af-d517-4148-8885-b99666795d3f.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/39be08af-d517-4148-8885-b99666795d3f.mp3",
+    "tags": [
+      "use-case:e-learning",
+      "age:young-adult",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "style:neutral",
+      "use-case:podcast",
+      "use-case:audiobook-long-form"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/60903c90-6e43-4b3c-9053-502adcf87d8b.webp",
+    "display_name": "John Rhys-Davies",
+    "gender": "male",
+    "locale": "en-GB",
+    "id": "john-rhys-davies",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/8e0ef5d4-5ddb-4505-a32d-a1c6d1f07d3b.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/8e0ef5d4-5ddb-4505-a32d-a1c6d1f07d3b.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/8e0ef5d4-5ddb-4505-a32d-a1c6d1f07d3b.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/8e0ef5d4-5ddb-4505-a32d-a1c6d1f07d3b.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/8e0ef5d4-5ddb-4505-a32d-a1c6d1f07d3b.mp3",
+    "tags": [
+      "use-case:voice-agent",
+      "content-type:fiction",
+      "use-case:social-media",
+      "fictiongenre:fantasy",
+      "use-case:animation",
+      "use-case:narration",
+      "pitch:low",
+      "age:senior",
+      "use-case:video-narration",
+      "use-case:non-fiction",
+      "pitch:mid",
+      "accent:british",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "timbre:deep",
+      "style:timeless",
+      "use-case:gaming",
+      "label:partner",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "label:real-person",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Jordan",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "jordan",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jordan/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jordan/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jordan/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jordan/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-jordan/en.mp3",
+    "tags": [
+      "age:middle-aged",
+      "use-case:conversational-ai",
+      "use-case:social-media",
+      "use-case:work",
+      "use-case:video-narration",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "timbre:deep",
+      "use-case:gaming",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/9ed846e7-c7e3-43d1-9eca-cb108fdee29c.webp",
+    "display_name": "Julie",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "julie",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/6c777bd2-2ce9-49c2-b127-d4740ad6e531.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/6c777bd2-2ce9-49c2-b127-d4740ad6e531.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/6c777bd2-2ce9-49c2-b127-d4740ad6e531.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/6c777bd2-2ce9-49c2-b127-d4740ad6e531.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/6c777bd2-2ce9-49c2-b127-d4740ad6e531.mp3",
+    "tags": [
+      "use-case:conversational-ai",
+      "use-case:social-media",
+      "use-case:animation",
+      "age:young-adult",
+      "use-case:video-narration",
+      "use-case:audiobook",
+      "style:friendly",
+      "use-case:gaming",
+      "pitch:high",
+      "use-case:advertisement",
+      "timbre:soft",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/ad88dfa0-b636-4e4c-af27-cfac6de9bb6c.webp",
+    "display_name": "Kara",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "kara",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/8272f1a0-6535-42a3-bab8-18c0bdfcda45.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/8272f1a0-6535-42a3-bab8-18c0bdfcda45.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/8272f1a0-6535-42a3-bab8-18c0bdfcda45.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/8272f1a0-6535-42a3-bab8-18c0bdfcda45.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/8272f1a0-6535-42a3-bab8-18c0bdfcda45.mp3",
+    "tags": [
+      "age:middle-aged",
+      "use-case:voice-agent",
+      "use-case:social-media",
+      "use-case:animation",
+      "content-type:article-longform",
+      "use-case:work",
+      "pitch:mid",
+      "timbre:textured",
+      "use-case:podcast",
+      "use-case:gaming",
+      "style:intimate",
+      "use-case:advertisement"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Karen",
+    "gender": "female",
+    "locale": "en-GB",
+    "id": "karen",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/e34ba2b2-d8b3-414e-b530-72872397c0ac.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/e34ba2b2-d8b3-414e-b530-72872397c0ac.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/e34ba2b2-d8b3-414e-b530-72872397c0ac.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/e34ba2b2-d8b3-414e-b530-72872397c0ac.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Kayla",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "kayla",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-kayla/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-kayla/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-kayla/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-kayla/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-kayla/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/814fdc45-8e73-4481-ae9f-08f4137fe988.webp",
+    "display_name": "Keenan",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "ken",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/5dfd923e-0d3e-430b-b3ba-95a808374bd4.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/5dfd923e-0d3e-430b-b3ba-95a808374bd4.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/5dfd923e-0d3e-430b-b3ba-95a808374bd4.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/5dfd923e-0d3e-430b-b3ba-95a808374bd4.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/5dfd923e-0d3e-430b-b3ba-95a808374bd4.mp3",
+    "tags": [
+      "age:middle-aged",
+      "use-case:video-narration",
+      "use-case:customer-service-ivr",
+      "timbre:deep",
+      "accent:american-neutral",
+      "use-case:audiobook-long-form"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/0994e94f-f8c0-4e2a-9167-aaad02403004.webp",
+    "display_name": "Kim",
+    "gender": "female",
+    "locale": "en-AU",
+    "id": "kim",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-AU",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-kim/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-AU",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-kim/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-AU",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-kim/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-AU",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-kim/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-kim/en.mp3",
+    "tags": [
+      "age:middle-aged",
+      "accent:australian",
+      "use-case:social-media",
+      "use-case:e-learning",
+      "use-case:work",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "use-case:customer-service-ivr",
+      "timbre:deep",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Kristin",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "kristin",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-kristin/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-kristin/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-kristin/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-kristin/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-kristin/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/a686b3b2-6c6f-4bda-b492-f2553869c37d.webp",
+    "display_name": "Kristy",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "kristy",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/6413d62e-7fd7-4530-9644-2b8210e1cd39.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/6413d62e-7fd7-4530-9644-2b8210e1cd39.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/6413d62e-7fd7-4530-9644-2b8210e1cd39.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/6413d62e-7fd7-4530-9644-2b8210e1cd39.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/6413d62e-7fd7-4530-9644-2b8210e1cd39.mp3",
+    "tags": [
+      "style:dynamic",
+      "use-case:e-learning",
+      "age:young-adult",
+      "timbre:warm",
+      "pitch:mid",
+      "use-case:audiobook",
+      "content-type:non-fiction",
+      "use-case:audiobook-long-form",
+      "label:real-person"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/c2a139c8-7864-4349-ae16-4057a08f1eb8.webp",
+    "display_name": "Leah",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "leah",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/b15ddb54-b0af-4f09-ab5b-7154c0ab04b3.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/b15ddb54-b0af-4f09-ab5b-7154c0ab04b3.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/b15ddb54-b0af-4f09-ab5b-7154c0ab04b3.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/b15ddb54-b0af-4f09-ab5b-7154c0ab04b3.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/b15ddb54-b0af-4f09-ab5b-7154c0ab04b3.mp3",
+    "tags": [
+      "use-case:e-learning",
+      "age:young-adult",
+      "use-case:podcast",
+      "content-type:news",
+      "use-case:audiobook-long-form",
+      "style:assured"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Leonard",
+    "gender": "male",
+    "locale": "en-GB",
+    "id": "leonard",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/ab05e148-69b5-4d69-ad9e-3159bf21ed5d.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/ab05e148-69b5-4d69-ad9e-3159bf21ed5d.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/ab05e148-69b5-4d69-ad9e-3159bf21ed5d.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/ab05e148-69b5-4d69-ad9e-3159bf21ed5d.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/dbc29007-42ad-49c4-b755-7d2c382fa844.webp",
+    "display_name": "Lexi",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "lexi",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/184d96fb-683f-4a32-8a44-e9266a5514e8.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/184d96fb-683f-4a32-8a44-e9266a5514e8.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/184d96fb-683f-4a32-8a44-e9266a5514e8.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/184d96fb-683f-4a32-8a44-e9266a5514e8.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/184d96fb-683f-4a32-8a44-e9266a5514e8.mp3",
+    "tags": [
+      "label:new-voice",
+      "use-case:conversational-ai",
+      "age:young-adult",
+      "accent:american-african-american",
+      "use-case:conversational",
+      "timbre:bright",
+      "content-type:non-fiction",
+      "pitch:high"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Lillian",
+    "gender": "female",
+    "locale": "en-GB",
+    "id": "lillian",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/2b5b47b4-3846-49f7-b833-d9c1ca92ff68.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/2b5b47b4-3846-49f7-b833-d9c1ca92ff68.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/2b5b47b4-3846-49f7-b833-d9c1ca92ff68.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/2b5b47b4-3846-49f7-b833-d9c1ca92ff68.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/41a990fb-0034-4be2-8515-8c6fd46ffa11.webp",
+    "display_name": "Linda",
+    "gender": "female",
+    "locale": "en-AU",
+    "id": "linda",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-AU",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-linda/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-AU",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-linda/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-AU",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-linda/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-AU",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-linda/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-linda/en.mp3",
+    "tags": [
+      "use-case:conversational-ai",
+      "accent:australian",
+      "use-case:social-media",
+      "use-case:animation",
+      "age:young-adult",
+      "use-case:video-narration",
+      "use-case:podcast",
+      "use-case:gaming",
+      "timbre:neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Lindy",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "lindy",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lindy/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lindy/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lindy/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lindy/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lindy/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/c7d93319-84ab-4e1f-853e-c66cb7709b22.webp",
+    "display_name": "Lisa",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "lisa",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lisa/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lisa/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lisa/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lisa/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lisa/en.mp3",
+    "tags": [
+      "use-case:social-media",
+      "use-case:animation",
+      "use-case:e-learning",
+      "age:young-adult",
+      "use-case:video-narration",
+      "timbre:relaxed",
+      "timbre:warm",
+      "pitch:mid",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "use-case:audiobook-long-form",
+      "style:young",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/a7230a0a-b620-4a3b-bdaa-cf5add75a3c3.webp",
+    "display_name": "Lorne",
+    "gender": "male",
+    "locale": "en-GB",
+    "id": "lorne",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/d921aed3-c984-4b04-b729-02fe5cdb56dd.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/d921aed3-c984-4b04-b729-02fe5cdb56dd.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/d921aed3-c984-4b04-b729-02fe5cdb56dd.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/d921aed3-c984-4b04-b729-02fe5cdb56dd.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/d921aed3-c984-4b04-b729-02fe5cdb56dd.mp3",
+    "tags": [
+      "style:resonant",
+      "use-case:voice-agent"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Lowell",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "lowell",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lowell/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lowell/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lowell/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lowell/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lowell/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/6b1d6593-014d-4dc6-b305-94daa03a2785.webp",
+    "display_name": "Lyla",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "lyla",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/ceba318f-ba14-4e86-aee9-0912f9922ef8.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/ceba318f-ba14-4e86-aee9-0912f9922ef8.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/ceba318f-ba14-4e86-aee9-0912f9922ef8.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/ceba318f-ba14-4e86-aee9-0912f9922ef8.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/ceba318f-ba14-4e86-aee9-0912f9922ef8.mp3",
+    "tags": [
+      "use-case:voice-agent"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Lyle",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "lyle",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lyle/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lyle/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lyle/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lyle/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-lyle/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Marco",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "marco",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-marco/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-marco/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-marco/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-marco/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-marco/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Marcus",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "marcus",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-marcus/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-marcus/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-marcus/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-marcus/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-marcus/en.mp3",
+    "tags": [
+      "use-case:e-learning",
+      "age:young-adult",
+      "timbre:relaxed",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/81c914a7-9966-415e-8888-8bc1fbccf5e7.webp",
+    "display_name": "Marian",
+    "gender": "female",
+    "locale": "en-GB",
+    "id": "marian",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/61cf1d00-667d-4cf3-94d0-871a9dd0a94c.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/61cf1d00-667d-4cf3-94d0-871a9dd0a94c.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/61cf1d00-667d-4cf3-94d0-871a9dd0a94c.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/61cf1d00-667d-4cf3-94d0-871a9dd0a94c.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/61cf1d00-667d-4cf3-94d0-871a9dd0a94c.mp3",
+    "tags": [
+      "gender:female",
+      "age:middle-aged",
+      "content-type:fiction",
+      "use-case:social-media",
+      "use-case:animation",
+      "use-case:narration",
+      "use-case:movies",
+      "use-case:e-learning",
+      "pitch:low",
+      "use-case:video-narration",
+      "use-case:non-fiction",
+      "pitch:mid",
+      "accent:british",
+      "fictiongenre:mystery",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "use-case:customer-service-ivr",
+      "content-type:non-fiction",
+      "style:intriguing",
+      "use-case:gaming",
+      "use-case:advertisement",
+      "timbre:soft",
+      "use-case:audiobook-long-form"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/49a353f2-5d73-40c1-b054-2d043db8a87d.webp",
+    "display_name": "Mark",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "mark",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-mark/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-mark/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-mark/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-mark/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-mark/en.mp3",
+    "tags": [
+      "use-case:social-media",
+      "use-case:e-learning",
+      "use-case:work",
+      "age:young-adult",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "timbre:deep",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/0954eef5-2d20-40d1-8c95-60a3aadbe072.webp",
+    "display_name": "Marnie",
+    "gender": "female",
+    "locale": "en-GB",
+    "id": "marnie",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/282d470b-6898-437f-a68e-c6118e98df91.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/282d470b-6898-437f-a68e-c6118e98df91.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/282d470b-6898-437f-a68e-c6118e98df91.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/282d470b-6898-437f-a68e-c6118e98df91.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/282d470b-6898-437f-a68e-c6118e98df91.mp3",
+    "tags": [
+      "label:new-voice",
+      "use-case:narration",
+      "content-type:article-longform",
+      "style:gentle",
+      "age:senior",
+      "use-case:video-narration",
+      "timbre:warm",
+      "pitch:mid",
+      "accent:british",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "content-type:non-fiction",
+      "use-case:audiobook-long-form"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/39c5950f-e3a7-4972-ac53-afb276a029b6.webp",
+    "display_name": "Mason",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "mason",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-mason/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-mason/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-mason/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-mason/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-mason/en.mp3",
+    "tags": [
+      "age:middle-aged",
+      "use-case:social-media",
+      "use-case:e-learning",
+      "use-case:work",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "timbre:neutral",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Megan",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "megan",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-megan/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-megan/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-megan/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-megan/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-megan/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/160ca4f4-ee46-4223-a3ad-ae97f324aa47.webp",
+    "display_name": "Michael",
+    "gender": "male",
+    "locale": "en-GB",
+    "id": "michael",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fc9eb299-3de6-414e-933a-afec6d24d87a.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fc9eb299-3de6-414e-933a-afec6d24d87a.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fc9eb299-3de6-414e-933a-afec6d24d87a.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/fc9eb299-3de6-414e-933a-afec6d24d87a.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/fc9eb299-3de6-414e-933a-afec6d24d87a.mp3",
+    "tags": [
+      "age:middle-aged",
+      "content-type:research",
+      "style:professional",
+      "use-case:social-media",
+      "use-case:e-learning",
+      "pitch:mid",
+      "timbre:neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Mildred",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "mildred",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-mildred/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-mildred/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-mildred/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-mildred/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-mildred/en.mp3",
+    "tags": [
+      "use-case:social-media",
+      "use-case:work",
+      "age:young-adult",
+      "timbre:relaxed",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "accent:american-neutral",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/2e78f10d-a7be-4c89-9f97-8eca06f06038.webp",
+    "display_name": "Monica",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "monica",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-monica/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-monica/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-monica/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-monica/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-monica/en.mp3",
+    "tags": [
+      "use-case:conversational-ai",
+      "use-case:social-media",
+      "use-case:e-learning",
+      "use-case:work",
+      "age:young-adult",
+      "use-case:video-narration",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "use-case:gaming",
+      "timbre:neutral",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/0398cc98-de53-4afa-956e-1d1ad2c1498f.webp",
+    "display_name": "Nick",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "nick",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-nick/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-nick/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-nick/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-nick/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-nick/en.mp3",
+    "tags": [
+      "use-case:social-media",
+      "use-case:animation",
+      "use-case:work",
+      "use-case:video-narration",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Nikki",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "nikki",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-nikki/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-nikki/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-nikki/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-nikki/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-nikki/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/9339dc9f-5938-4ff0-9b22-17237c50a449.webp",
+    "display_name": "Oliver",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "oliver",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/a4320aad-3494-490a-afcf-e21f1714a433.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/a4320aad-3494-490a-afcf-e21f1714a433.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/a4320aad-3494-490a-afcf-e21f1714a433.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/a4320aad-3494-490a-afcf-e21f1714a433.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/a4320aad-3494-490a-afcf-e21f1714a433.mp3",
+    "tags": [
+      "age:middle-aged",
+      "style:resonant",
+      "content-type:fiction",
+      "use-case:e-learning",
+      "pitch:low",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "timbre:deep",
+      "use-case:audiobook-long-form"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Paulette",
+    "gender": "female",
+    "locale": "en-GB",
+    "id": "paulette",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-paulette/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-paulette/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-paulette/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-paulette/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-paulette/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/fee36fcf-0e6e-4449-994f-d596f41d3faf.webp",
+    "display_name": "Phil",
+    "gender": "male",
+    "locale": "en-GB",
+    "id": "phil",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-phil/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-phil/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-phil/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-phil/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-phil/en.mp3",
+    "tags": [
+      "age:middle-aged",
+      "use-case:conversational-ai",
+      "use-case:social-media",
+      "use-case:e-learning",
+      "use-case:work",
+      "use-case:video-narration",
+      "accent:british",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "timbre:deep",
+      "use-case:gaming",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Reba",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "reba",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-reba/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-reba/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-reba/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-reba/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-reba/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Regina",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "regina",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-regina/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-regina/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-regina/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-regina/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-regina/en.mp3",
+    "tags": [
+      "use-case:conversational-ai",
+      "use-case:e-learning",
+      "age:young-adult",
+      "use-case:video-narration",
+      "use-case:gaming",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Richard",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "richard",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-richard/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-richard/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-richard/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-richard/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-richard/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/e6570f96-8b89-4bcc-b2be-c7c540411940.webp",
+    "display_name": "Rob",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "rob",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-rob/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-rob/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-rob/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-rob/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-rob/en.mp3",
+    "tags": [
+      "age:middle-aged",
+      "style:resonant",
+      "use-case:e-learning",
+      "pitch:low",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "timbre:deep",
+      "use-case:audiobook-long-form"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Robbie",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "robbie",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-robbie/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-robbie/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-robbie/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-robbie/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-robbie/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Rohit",
+    "gender": "male",
+    "locale": "en-IN",
+    "id": "rohit",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-IN",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-rohit/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-IN",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-rohit/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-IN",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-rohit/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-IN",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-rohit/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-rohit/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/181c248b-044b-4850-bfb3-2d785e42bf8a.webp",
+    "display_name": "Declan",
+    "gender": "male",
+    "locale": "en-GB",
+    "id": "ron",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-ron/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-ron/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-ron/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-ron/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-ron/en.mp3",
+    "tags": [
+      "use-case:social-media",
+      "use-case:e-learning",
+      "use-case:work",
+      "age:senior",
+      "accent:british",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "timbre:deep",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Ruby",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "ruby",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-ruby/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-ruby/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-ruby/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-ruby/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-ruby/en.mp3",
+    "tags": [
+      "use-case:social-media",
+      "use-case:animation",
+      "age:young-adult",
+      "use-case:video-narration",
+      "timbre:bright",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/e3f6b982-7752-4026-a213-2f98e1eb7c59.webp",
+    "display_name": "Sabrina",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "sabrina",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/dd2d9db5-6d54-49ed-acae-487bb62417d7.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/dd2d9db5-6d54-49ed-acae-487bb62417d7.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/dd2d9db5-6d54-49ed-acae-487bb62417d7.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/dd2d9db5-6d54-49ed-acae-487bb62417d7.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/dd2d9db5-6d54-49ed-acae-487bb62417d7.mp3",
+    "tags": [
+      "gender:female",
+      "use-case:voice-agent",
+      "label:new-voice",
+      "content-type:study",
+      "use-case:conversational-ai",
+      "use-case:social-media",
+      "use-case:animation",
+      "content-type:article-longform",
+      "use-case:movies",
+      "style:easygoing",
+      "use-case:work",
+      "age:young-adult",
+      "use-case:video-narration",
+      "pitch:mid",
+      "use-case:conversational",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "use-case:gaming",
+      "accent:american-neutral",
+      "timbre:soft"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/f58d2d70-53f3-4df4-9b5d-9cb21f9f2b60.webp",
+    "display_name": "Senga",
+    "gender": "female",
+    "locale": "en-GB",
+    "id": "senga",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cf9c9e26-443d-4410-8684-45ef6bc8dfb0.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cf9c9e26-443d-4410-8684-45ef6bc8dfb0.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cf9c9e26-443d-4410-8684-45ef6bc8dfb0.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cf9c9e26-443d-4410-8684-45ef6bc8dfb0.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cf9c9e26-443d-4410-8684-45ef6bc8dfb0.mp3",
+    "tags": [
+      "gender:female",
+      "use-case:voice-agent",
+      "use-case:conversational-ai",
+      "use-case:narration",
+      "age:young-adult",
+      "use-case:video-narration",
+      "timbre:relaxed",
+      "pitch:mid",
+      "use-case:conversational",
+      "style:friendly",
+      "pitch:high"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/c073615b-562a-44f3-b70d-3d24010c40db.webp",
+    "display_name": "Sienna",
+    "gender": "female",
+    "locale": "en-GB",
+    "id": "sienna",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/b2dbd8a7-74f7-425b-8c2f-399800f6e45d.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/b2dbd8a7-74f7-425b-8c2f-399800f6e45d.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/b2dbd8a7-74f7-425b-8c2f-399800f6e45d.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/b2dbd8a7-74f7-425b-8c2f-399800f6e45d.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/b2dbd8a7-74f7-425b-8c2f-399800f6e45d.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/f886e32c-ea10-45a6-8c92-b78f51721d4e.webp",
+    "display_name": "Stacy",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "stacy",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-stacy/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-stacy/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-stacy/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-stacy/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-stacy/en.mp3",
+    "tags": [
+      "use-case:social-media",
+      "use-case:animation",
+      "use-case:e-learning",
+      "use-case:work",
+      "age:young-adult",
+      "use-case:video-narration",
+      "use-case:audiobook",
+      "use-case:meditation",
+      "use-case:customer-service-ivr",
+      "timbre:deep",
+      "accent:american-neutral",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Steve",
+    "gender": "male",
+    "locale": "en-GB",
+    "id": "steve",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-steve/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-steve/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-steve/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-steve/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-steve/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/7fd2c0ec-6000-4220-8fa0-677e31308409.webp",
+    "display_name": "Susan",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "susan",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-susan/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-susan/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-susan/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-susan/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-susan/en.mp3",
+    "tags": [
+      "age:middle-aged",
+      "use-case:social-media",
+      "use-case:podcast",
+      "timbre:bright",
+      "accent:american-neutral",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/2bd5d1df-ea07-4703-a27d-ef7a8dbb07a4.webp",
+    "display_name": "Tasha",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "tasha",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/f89c6c64-b939-43f4-9baf-5177ed2f69e8.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/f89c6c64-b939-43f4-9baf-5177ed2f69e8.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/f89c6c64-b939-43f4-9baf-5177ed2f69e8.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/f89c6c64-b939-43f4-9baf-5177ed2f69e8.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/f89c6c64-b939-43f4-9baf-5177ed2f69e8.mp3",
+    "tags": [
+      "style:textured",
+      "use-case:social-media",
+      "use-case:e-learning",
+      "age:young-adult",
+      "pitch:mid",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "timbre:crisp",
+      "content-type:news",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Todd",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "todd",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-todd/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-todd/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-todd/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-todd/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-todd/en.mp3",
+    "tags": [
+      "age:middle-aged",
+      "use-case:social-media",
+      "use-case:e-learning",
+      "use-case:work",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "use-case:customer-service-ivr",
+      "timbre:deep",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Tonya",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "tonya",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-tonya/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-tonya/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-tonya/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-tonya/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-tonya/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/b500cfe9-44a8-453a-9123-07833162d747.webp",
+    "display_name": "Victoria",
+    "gender": "female",
+    "locale": "en-US",
+    "id": "victoria",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-victoria/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-victoria/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-victoria/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-victoria/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-victoria/en.mp3",
+    "tags": [
+      "age:middle-aged",
+      "use-case:social-media",
+      "use-case:e-learning",
+      "timbre:neutral",
+      "accent:american-neutral",
+      "use-case:advertisement",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "",
+    "display_name": "Woodrow",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "woodrow",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-woodrow/en.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-woodrow/en.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-woodrow/en.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-woodrow/en.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/cvl-woodrow/en.mp3",
+    "tags": [],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/fe11c3a4-fad6-45b3-a7ed-88432b48ff84.webp",
+    "display_name": "Wren",
+    "gender": "female",
+    "locale": "en-GB",
+    "id": "wren",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/69168486-37ba-4532-be31-5f718f08f4d1.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/69168486-37ba-4532-be31-5f718f08f4d1.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/69168486-37ba-4532-be31-5f718f08f4d1.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-GB",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/69168486-37ba-4532-be31-5f718f08f4d1.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/69168486-37ba-4532-be31-5f718f08f4d1.mp3",
+    "tags": [
+      "timbre:soft"
+    ],
+    "type": "shared",
+    "can_manage": false
+  },
+  {
+    "avatar_image": "https://vms.cdn.speechify.com/avatars/705869bc-d069-4479-9922-32170e074a58.webp",
+    "display_name": "Wyatt",
+    "gender": "male",
+    "locale": "en-US",
+    "id": "wyatt_32",
+    "models": [
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/609a581a-b505-40a0-ab65-fc65a6dce0ab.mp3"
+          }
+        ],
+        "name": "simba-english"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/609a581a-b505-40a0-ab65-fc65a6dce0ab.mp3"
+          }
+        ],
+        "name": "simba-multilingual"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/609a581a-b505-40a0-ab65-fc65a6dce0ab.mp3"
+          }
+        ],
+        "name": "simba-3.0"
+      },
+      {
+        "languages": [
+          {
+            "locale": "en-US",
+            "preview_audio": "https://vms.cdn.speechify.com/previews/609a581a-b505-40a0-ab65-fc65a6dce0ab.mp3"
+          }
+        ],
+        "name": "simba-3.2"
+      }
+    ],
+    "preview_audio": "https://vms.cdn.speechify.com/previews/609a581a-b505-40a0-ab65-fc65a6dce0ab.mp3",
+    "tags": [
+      "age:middle-aged",
+      "label:new-voice",
+      "content-type:fiction",
+      "use-case:narration",
+      "content-type:article-longform",
+      "use-case:movies",
+      "pitch:low",
+      "use-case:work",
+      "use-case:video-narration",
+      "use-case:non-fiction",
+      "timbre:textured",
+      "use-case:conversational",
+      "use-case:audiobook",
+      "use-case:podcast",
+      "content-type:non-fiction",
+      "style:sophisticated",
+      "gender:male",
+      "use-case:audiobook-long-form",
+      "use-case:marketing-content"
+    ],
+    "type": "shared",
+    "can_manage": false
+  }
+]

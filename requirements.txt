@@ -1,0 +1,5 @@
+PyMuPDF>=1.24
+speechify-api
+python-dotenv
+pydub
+audioop-lts

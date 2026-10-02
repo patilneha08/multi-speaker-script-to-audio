@@ -1,0 +1,15 @@
+# Created by pytest automatically.
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.pytest_cache/
+# Confidential scripts and parsed content
+scripts/
+json/
+
+# Generated audio
+audio/
+
+config/voices.json
