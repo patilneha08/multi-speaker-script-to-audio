@@ -146,7 +146,7 @@ def main(scene_file):
 
         final_audio += clip
 
-        # Don't add silence after the final event.
+        # Not to add silence at the end of an event
         if index < len(spoken_events) - 1:
 
             next_event = spoken_events[index + 1]

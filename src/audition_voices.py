@@ -16,7 +16,6 @@ if not api_key:
 client = Speechify(token=api_key)
 
 # Initial audition set.
-# We'll expand/change this after listening.
 VOICES = {
     "jacob": "jacob",
     "archie": "archie",

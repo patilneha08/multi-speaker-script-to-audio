@@ -11,8 +11,6 @@ from speechify import Speechify
 
 VOICE_CONFIG = Path("config/voices.json")
 
-# Keep this at 5 while we're developing.
-# Later we'll change it to None.
 MAX_LINES = None
 
 
